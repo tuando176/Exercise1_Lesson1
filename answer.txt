@@ -1,3 +1,6 @@
+Info Git:
+name: K4 - Tuan Do
+email: hoangtuan1760@gmail.com
 
 Lệnh để cài đặt email: git config --global user.name "K4 - Tuan Do"
 Lệnh để cài đặt name: git config --global user.email "hoangtuan1760@gmail.com"
