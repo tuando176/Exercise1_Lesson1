@@ -1,4 +1,3 @@
-Lệnh để cài đặt email và name là:
 
-git config --global user.name "K4 - Tuan Do"
-git config --global user.email "hoangtuan1760@gmail.com"
+Lệnh để cài đặt email: git config --global user.name "K4 - Tuan Do"
+Lệnh để cài đặt name: git config --global user.email "hoangtuan1760@gmail.com"
