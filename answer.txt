@@ -1,4 +1,4 @@
-Info Git:
+Info Git :
 name: K4 - Tuan Do
 email: hoangtuan1760@gmail.com
 ==============================================================================
